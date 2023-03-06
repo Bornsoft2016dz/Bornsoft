@@ -1,2 +1,2 @@
-
-hhhhhhh
+<?php
+ech 'hhhhhhh';
